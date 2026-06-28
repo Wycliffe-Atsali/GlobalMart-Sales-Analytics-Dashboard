@@ -172,6 +172,49 @@ globalmart-sales-analytics-dashboard/
 
 ---
 
+# 📊 Dashboard Features
+
+The GlobalMart Sales Analytics Dashboard provides an interactive business intelligence solution through multiple analytical views.
+
+### Executive Dashboard
+- Presents key performance indicators (KPIs) including Total Sales, Total Profit, Total Orders, and Profit Margin.
+- Provides a high-level overview of overall business performance.
+
+### Regional Performance Dashboard
+- Compares sales and profitability across different regions and states.
+- Highlights geographical trends and identifies high-performing markets.
+
+### Product Performance Dashboard
+- Evaluates product categories and sub-categories based on sales, profit, and order volume.
+- Identifies top-performing and underperforming products.
+
+### Customer Analysis Dashboard
+- Analyses customer purchasing behaviour and segment performance.
+- Supports customer-focused business strategies through purchasing insights.
+
+### Interactive Reporting
+- Includes slicers and filters that allow users to analyse data dynamically by region, product category, customer segment, and other business dimensions.
+
+# 📈 Key Business Insights
+
+The analysis of GlobalMart's retail sales data revealed several important business insights:
+
+- The **West** region generated the highest overall sales, demonstrating strong market performance compared to other regions.
+- Significant differences exist between sales and profitability across regions, indicating that higher revenue does not always translate into higher profit.
+- Certain product categories consistently outperform others, making them strong candidates for increased marketing and inventory investment.
+- Customer purchasing behaviour varies across different segments, highlighting opportunities for targeted marketing strategies.
+- Profit margins differ considerably between states, suggesting that pricing, discounts, and operational costs should be reviewed to improve profitability.
+
+# 💡 Business Recommendations
+
+Based on the findings from the dashboard, the following recommendations are proposed:
+
+- Increase investment in high-performing regions while identifying strategies to improve lower-performing markets.
+- Review discount policies for products and regions with consistently low profit margins.
+- Focus inventory planning on high-demand products to minimise stock shortages.
+- Develop targeted marketing campaigns for valuable customer segments identified through the analysis.
+- Continue monitoring business KPIs through interactive dashboards to support ongoing strategic decision-making.
+
 ## 🚀 Getting Started
 
 1. Clone this repository.
